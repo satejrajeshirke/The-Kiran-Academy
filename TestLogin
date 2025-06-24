@@ -1,0 +1,9 @@
+
+public class TestLogin {
+  public static void main(String args[]) {
+	  
+	  Instagram accept=new Instagram();
+	  
+	  accept.LoginCheck("Satej","Satej123");
+  }
+}
